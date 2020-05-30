@@ -6,7 +6,7 @@
      pkg install git
      ```
      ```sh
-     pip install python
+     pkg install python
      ```
      ```sh
      pip install secure-smtplib
