@@ -12,9 +12,6 @@
      pip install secure-smtplib
      ```
      ```sh
-     pip install time
-     ```
-     ```sh
      pip install colorama
      ```
      ```sh
