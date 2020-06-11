@@ -6,7 +6,10 @@ from datetime import datetime, date, time
 
 init()
 
-print(Fore.YELLOW+"GmailSpammer by PLATWA сделано с любовью"+'\n'+Fore.WHITE)
+print(Fore.RED+"Бот временно не работает"+'\n'+Fore.WHITE)
+exit()
+
+# print(Fore.YELLOW+"GmailSpammer by PLATWA сделано с любовью"+'\n'+Fore.WHITE)
 
 logins = {
 	'1':'Bot2Python@gmail.com',
