@@ -41,7 +41,7 @@ def acc():
 	global sender_email
 	global password
 	sender_email = input("Введите gmail Бота. Введите число от 1 до 20 (работают не все), чтобы использовать стандартных ботов: ")
-	password = 'te155735'
+	password = 'Бот временно не работает'
 	if sender_email == '1' or sender_email == '2' or sender_email == '3' or sender_email == '4' or sender_email == '5' or sender_email == '6' or sender_email == '7' or sender_email == '8' or sender_email == '9' or sender_email == '10' or sender_email == '11' or sender_email == '12' or sender_email == '13' or sender_email == '14' or sender_email == '15' or sender_email == '16' or sender_email == '17' or sender_email == '18' or sender_email == '19' or sender_email == '20':
 		sender_email = logins[sender_email]
 	else:
